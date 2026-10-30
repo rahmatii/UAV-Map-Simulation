@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.vscode/
+.idea/
+
+# Large / downloaded data (downloaded again automatically when missing)
+countries.geojson
+iran_provinces.geojson
+
+# Simulation output
+test*/
+output/
+tiles/
+*.tif
+*.mp4
+missed_tiles.log

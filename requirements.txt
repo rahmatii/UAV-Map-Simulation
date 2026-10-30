@@ -1,0 +1,12 @@
+numpy
+scipy
+pandas
+openpyxl
+matplotlib
+opencv-python
+rasterio
+Pillow
+requests
+pywmm
+PyQt5
+shapely
